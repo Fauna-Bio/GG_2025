@@ -12,3 +12,4 @@ Notebooks and their contents:
 * `7_arduini.ipynb`: inspect kallisto|bustools pseudoalignments of Arduini et al. rat heart data.
 * `8_eraslan.ipynb`: inspect _XIST_ expression in male donors in Eraslan et al. data across a variety of tissues.
 
+The pseudobulks, as well as the fit PyDESeq2 objects, can be found at https://zenodo.org/records/15179181.
