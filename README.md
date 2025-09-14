@@ -11,5 +11,8 @@ Notebooks and their contents:
 * `6_differential_expression_xistposneg_viz.ipynb`: visualize results of DE tests.
 * `7_arduini.ipynb`: inspect kallisto|bustools pseudoalignments of Arduini et al. rat heart data.
 * `8_eraslan.ipynb`: inspect _XIST_ expression in male donors in Eraslan et al. data across a variety of tissues.
+* `9_scBaseCount_mouse_scVI.ipynb`: cluster a variety of scBaseCount mouse datasets and check expression of _Xist_ globally and in pseudo-glia.
+* `10_shen.ipynb`: cluster Shen et al. neonatal mouse heart and check expression of _Xist_.
+* `11_qu.ipynb`: cluster Qu et al. realigned cynomolgus heart and check expression of _Xist_.
 
 The pseudobulks, as well as the fit PyDESeq2 objects, can be found at https://zenodo.org/records/15179181.
